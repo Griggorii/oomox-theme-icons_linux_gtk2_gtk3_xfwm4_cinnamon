@@ -2,3 +2,5 @@
 oomox theme icons linux gtk2 gtk3 xfwm4 cinnamon linux OS8.0 generator theme
 
 Run firefox link video https://radikal.ru/video/DdTdTtagD0E
+
+My fovarite themes + icons https://drive.google.com/open?id=1HnWTiiFhvhRZgGOn3hvjrWoCznsgOkAc
